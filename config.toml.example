@@ -1,0 +1,12 @@
+Debug = true
+
+[Irc]
+Host = "irc.server.com"
+Port = "6667"
+Nick = "AkTaRuS"
+NickPass = "your-password"
+Username = "your-login"
+Ssl = false
+NormalChannel = "#normal"
+StaffChannel = "#staff"
+Timeout = 30
